@@ -31,7 +31,7 @@
 .Weather img {
   height: 60px;
   width: 60px;
-  margin-right: 10px;
+  margin-right: 5px;
   display: inline-block;
 }
 
@@ -50,6 +50,6 @@
   font-weight: 400;
   position: relative;
   top: -34px;
-  margin-left: 5px;
+  margin-left: 0;
   line-height: 1;
 }
