@@ -22,8 +22,9 @@ export default function App() {
             rel="noreferrer"
           >
             {" "}
-          </a>
-          open-sourced on Github. It is hosted on{" "}
+            open-sourced{" "}
+          </a>{" "}
+          on Github. It is hosted on{" "}
           <a
             href="https://scintillating-baklava-70c67f.netlify.app/"
             target="_blank"
