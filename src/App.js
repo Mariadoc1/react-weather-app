@@ -22,7 +22,7 @@ export default function App() {
             rel="noreferrer"
           >
             {" "}
-            open-sourced{" "}
+            open-sourced
           </a>{" "}
           on Github. It is hosted on{" "}
           <a
