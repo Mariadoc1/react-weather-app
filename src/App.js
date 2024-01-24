@@ -21,7 +21,14 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            open-sourced on Github
+            open-sourced on Github. It is hosted on{" "}
+            <a
+              href="https://scintillating-baklava-70c67f.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify.
+            </a>
           </a>
         </footer>
       </div>
