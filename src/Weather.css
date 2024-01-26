@@ -1,22 +1,27 @@
 .Weather {
-  border: 2px solid #f4f4f4;
   font-family: arial, sans-serif;
   color: #878787;
   padding: 16px;
   border-radius: 5px;
 }
 
+.form-control {
+  background-color: #f9f9f9;
+}
+
 .btn {
-  background-color: purple;
+  background-color: #ed5082;
   border: none;
 }
 
-.Weather h1 {
+.Weather h2 {
   display: block;
-  font-size: 24px;
-  font-weight: 100;
+  font-size: 30px;
+
+  font-weight: bold;
   line-height: 29px;
-  margin: 20px 0 0 0;
+  margin: 20px 0 10px 0;
+  color: black;
 }
 
 .Weather ul {
@@ -56,7 +61,31 @@
   line-height: 1;
 }
 
+.humidity,
+.wind {
+  color: #ed5082;
+}
+
+.WeatherForecast-temperature-max,
+.WeatherForecast-temperature-min {
+  color: #ed5082;
+}
+
+.WeatherTemperature .unit a {
+  color: #ed5082;
+}
+
+.WeatherTemperature .unit {
+  margin-left: 3px;
+}
+
+.dayTime {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
 footer a {
-  color: purple;
+  color: #ed5082;
   text-decoration: none;
 }
