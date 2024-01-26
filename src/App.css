@@ -4,6 +4,7 @@ body {
 
 .App {
   max-width: 600px;
+  max-height: 700px;
   margin: 30px auto;
   padding: 30px 20px;
   border: 2px solid #f4f4f4;

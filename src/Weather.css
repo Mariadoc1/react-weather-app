@@ -7,11 +7,14 @@
 
 .form-control {
   background-color: #f9f9f9;
+  height: 40px;
 }
 
 .btn {
   background-color: #ed5082;
   border: none;
+  height: 40px;
+  max-width: 100px;
 }
 
 .Weather h2 {
@@ -61,6 +64,10 @@
   line-height: 1;
 }
 
+.humidityWind {
+  position: relative;
+  left: 80px;
+}
 .humidity,
 .wind {
   color: #ed5082;
