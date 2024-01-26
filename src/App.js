@@ -11,7 +11,7 @@ export default function App() {
           <a
             href="https://github.com/Mariadoc1"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Maria Docherty
           </a>{" "}
@@ -19,7 +19,7 @@ export default function App() {
           <a
             href="https://github.com/Mariadoc1/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {" "}
             open-sourced
@@ -28,7 +28,7 @@ export default function App() {
           <a
             href="https://scintillating-baklava-70c67f.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Netlify.
           </a>
